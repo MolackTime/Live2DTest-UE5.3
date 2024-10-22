@@ -1,4 +1,4 @@
-# Live2DTest
+# Live2DTest - ue5.3
 
 This is a sample project for [UnrealLive2D](https://github.com/Arisego/UnrealLive2D).
 
