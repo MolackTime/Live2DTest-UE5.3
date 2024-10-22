@@ -8,8 +8,8 @@ public class Live2DTestEditorTarget : TargetRules
 	public Live2DTestEditorTarget( TargetInfo Target) : base(Target)
 	{
         Type = TargetType.Editor;
-        DefaultBuildSettings = BuildSettingsVersion.V5;
-        IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_4;
+        DefaultBuildSettings = BuildSettingsVersion.V4;
+        IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3;
 
         ExtraModuleNames.AddRange( new string[] { "Live2DTest" } );
 	}
